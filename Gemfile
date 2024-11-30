@@ -47,7 +47,7 @@ gem 'devise', '~> 3.5.10'
 gem 'bugsnag', '~> 2.8.13'
 gem 'whenever', '~> 0.9.7', :require => false
 gem 'jquery-ui-rails', '~> 5.0.5'
-gem 'kaminari', '~> 0.16.3'
+gem 'kaminari', '~> 1.2.1'
 gem 'remotipart', '~> 1.4.2'
 gem 'carrierwave', '~> 0.10.0'
 gem 'friendly_id', '~> 5.1.0'

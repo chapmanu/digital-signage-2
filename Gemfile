@@ -43,7 +43,7 @@ gem 'materialize-sass', '~> 0.98.2'
 gem 'selectize-rails', '~> 0.12.5'
 gem 'cancancan', '~> 1.12.0'
 gem 'net-ldap', '~> 0.16.1'
-gem 'devise', '~> 3.5.10'
+gem 'devise', '~> 4.7.1'
 gem 'bugsnag', '~> 2.8.13'
 gem 'whenever', '~> 0.9.7', :require => false
 gem 'jquery-ui-rails', '~> 5.0.5'

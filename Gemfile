@@ -49,7 +49,7 @@ gem 'whenever', '~> 0.9.7', :require => false
 gem 'jquery-ui-rails', '~> 5.0.5'
 gem 'kaminari', '~> 0.16.3'
 gem 'remotipart', '~> 1.4.2'
-gem 'carrierwave', '~> 0.10.0'
+gem 'carrierwave', '~> 1.3.2'
 gem 'friendly_id', '~> 5.1.0'
 gem 'trix'
 gem 'bourbon', '< 5.0.0'
